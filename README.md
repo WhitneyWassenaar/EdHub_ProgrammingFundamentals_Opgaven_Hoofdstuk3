@@ -12,4 +12,4 @@ De opgaven van hoofdstuk 3 zijn herhaling van string-operations van hoofdstuk 2,
 - await is een keyword
 
 ## Informatie over het project
-Dit is een EdHUb opdracht uit de leerlijn Programming Fundamentals uit de bootcamp Web-development van Hogeschool Novi.
+Dit is een EdHUb opdracht uit de leerlijn Programming Fundamentals uit de bootcamp Web-development van Hogeschool NOVI.
